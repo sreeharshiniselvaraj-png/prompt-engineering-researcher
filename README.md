@@ -91,3 +91,7 @@ Technical limits, supported features, and pricing can change. Consult the curren
 ## Conclusion
 
 Kubernetes is a strong choice when advanced orchestration and control are priorities. Docker Swarm can work well when simplicity is important and requirements are relatively straightforward. AWS Fargate is attractive when a team wants to reduce server-management responsibilities and accelerate delivery. The best choice depends on the application's needs, the team's skills, budget, and existing infrastructure.
+
+
+Name: Sree Harshini S
+Loom Link:https://www.loom.com/share/d1e427e8592940b0aae3ef262cd576e0
